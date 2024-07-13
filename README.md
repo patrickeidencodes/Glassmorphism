@@ -24,11 +24,11 @@ The design was inspired by this [Pinterest image](https://www.pinterest.de/pin/3
 
 1. Clone the project:
    ```bash
-   git clone https://github.com/dein-account/dein-repo.git
+   git clone https://github.com/patrickeidencodes/Glassmorphism-Frontend-React.git
    ```
 2. Go into the "my-app" folder:
    ```bash
-   cd dein-repo/my-app
+   cd repo/my-app
    ```
 3. Install the dependencies:
    ```bash
